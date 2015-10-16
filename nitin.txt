@@ -1,1 +1,4 @@
 My name is Nitin Upadhyay
+
+// To update the repo
+git pull origin master
