@@ -24,6 +24,9 @@ public class Coll {
 		employees.add(emp5);
 		employees.add(emp6);
 		employees.add(emp6);
+		
+		Set<Employee> employeeSet = new HashSet<Employee>();
+		
 		// employees.remove(7);
 		
 		employees.clear();
